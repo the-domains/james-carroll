@@ -1,0 +1,31 @@
+typography_spectrum: 0.7095009170006961
+color:
+  brandStrength: 0.2607500976882875
+  lightness: 0.3768354475032538
+  saturation: 0.33565075881779194
+  rhythmicContrast: 0.8295977178495377
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+github: true
+layout_spectrum: 0.7602753853425384
+author:
+  name: James Carroll
+name: '0x42'
+navigation:
+  - name: Github
+    url: 'https://github.com/jamcar23'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/jamcar23'
+    type: external
+  - name: Google+
+    url: 'https://plus.google.com/+JamesCarrollJamcar23'
+    type: external
+title: James Carroll
+content: []
+description: jamcar23
+purpose: []
