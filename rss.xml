@@ -4,9 +4,16 @@
         <description><![CDATA[James Carroll]]></description>
         <link>http://jamescarroll.xyz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Oct 2018 15:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Oct 2018 15:36:36 GMT</lastBuildDate>
         <atom:link href="http://jamescarroll.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Oct 2018 15:06:30 GMT</pubDate>
+        <pubDate>Tue, 23 Oct 2018 15:36:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[First thoughts of the HTC Vive]]></title>
+            <description><![CDATA[<h1>First thoughts of the HTC Vive</h1>,<p>Well today is the day: I’ve finally received my HTC Vive VR system in the mail. This really is an amazing device. I'm blown away at how far VR since the days of the Oculus Rift DK1.</p>]]></description>
+            <link>http://jamescarroll.xyz/first-thoughts-of-the-htc-vive/index.html</link>
+            <guid isPermaLink="false">44782837-b3ca-451e-954d-66973881cd89</guid>
+            <pubDate>Tue, 23 Oct 2018 15:36:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GeniPass]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a1799b5-a916-4d83-be60-42200e0f98ad.png">,<h1>GeniPass</h1>,<p>An Android password manager that lets you manage your passwords across devices without storing them on the device or on a server.</p>]]></description>
