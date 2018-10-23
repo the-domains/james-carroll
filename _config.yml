@@ -22,9 +22,6 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/jamcar23'
     type: external
-  - name: Google+
-    url: 'https://plus.google.com/+JamesCarrollJamcar23'
-    type: external
 title: James Carroll
 content: []
 description: jamcar23
