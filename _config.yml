@@ -1,9 +1,10 @@
-typography_spectrum: 0.7095009170006961
+layout_spectrum: 0.14617633409807368
+typography_spectrum: 0.03910710935056726
 color:
-  brandStrength: 0.2607500976882875
-  lightness: 0.3768354475032538
-  saturation: 0.33565075881779194
-  rhythmicContrast: 0.8295977178495377
+  brandStrength: 0.44653863299204644
+  lightness: 0.14822903162864323
+  saturation: 0.5034061758548464
+  rhythmicContrast: 0.6167238793593122
   brandColors:
     - '#F2385A'
     - '#F5A503'
@@ -11,7 +12,6 @@ color:
     - '#4AD9D9'
     - '#36B1BF'
 github: true
-layout_spectrum: 0.7602753853425384
 author:
   name: James Carroll
 name: '0x42'
