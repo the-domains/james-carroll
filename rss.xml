@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[James Carroll]]></title>
+        <description><![CDATA[James Carroll]]></description>
+        <link>http://jamescarroll.xyz/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Oct 2018 15:06:31 GMT</lastBuildDate>
+        <atom:link href="http://jamescarroll.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 23 Oct 2018 15:06:30 GMT</pubDate>
+        <item>
+            <title><![CDATA[GeniPass]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a1799b5-a916-4d83-be60-42200e0f98ad.png">,<h1>GeniPass</h1>,<p>An Android password manager that lets you manage your passwords across devices without storing them on the device or on a server.</p>]]></description>
+            <link>http://jamescarroll.xyz/genipass/index.html</link>
+            <guid isPermaLink="false">f13a9fd9-e156-4650-b398-5cd34d56242c</guid>
+            <pubDate>Wed, 07 Sep 2016 16:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Safely Generating Cryptographically Secure Random Numbers With Swift]]></title>
+            <description><![CDATA[<h1>Safely Generating Cryptographically Secure Random Numbers With Swift</h1>,<p>We’ll take a look at how safely generate cryptographically secure random bytes as an array of bytes, an UInt, or as a hexadecimal string.</p>]]></description>
+            <link>http://jamescarroll.xyz/safely-generating-cryptographically-secure-random-numbers-wi/index.html</link>
+            <guid isPermaLink="false">1adca956-349e-4684-a814-a0a37a9e7594</guid>
+            <pubDate>Wed, 07 Sep 2016 16:36:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
